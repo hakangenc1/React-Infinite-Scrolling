@@ -5,7 +5,7 @@
   "repository": "https://github.com/SaniaLs4Life/React-Infinite-Scrolling",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2"
